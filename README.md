@@ -9,8 +9,12 @@ Outline
 - File types
 - Intro to GIS
 - Chloropleths
+    Census places
 - Joins
+    Census blocks
 - Geocoding
+    Sex offenders
+    Political donors
 - Hex bins
 - Fusion tables
 - Leaflet
