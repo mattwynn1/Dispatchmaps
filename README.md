@@ -7,6 +7,7 @@ Outline
 
 - Stories using mapping
 - Intro to GIS
+	* Census for shapefiles
 - Chloropleths
     * Census block groups
 - Joins
@@ -17,6 +18,11 @@ Outline
 - Hex bins
 - Fusion tables
 - Leaflet
+
+<H3>WHY WE CARE ABOUT GIS</h3>
+Geographic information systems allow us to do spatial analyses. GIS lets us <a href="http://www.nytimes.com/2013/01/03/us/a-soaring-homicide-rate-a-divide-in-chicago.html?_r=1&">quantify disparities between neighborhoods</a>, 
+
+Maybe the thing that makes it most different, though, is GIS' ability to let us switch together disparate data sources to find correlations. The Seattle Times' <a href="http://seattletimes.com/flatpages/specialreports/methadone/methadonestollhigherinpoorerareas.html">found a connection between poverty and methadone<a>, for example.
 
 <h3>CHLOROPLETHS</h3>
 
