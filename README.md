@@ -6,12 +6,14 @@ Files for mapping hands on that will go an inch deep on a wide variety of geo-to
 Outline
 
 - Stories using mapping
-- Intro to GIS
+- Digging into QGIS
 	* Census for shapefiles
+	* A few nice plugins (mmqgis, openlayers)
+	* Loading a shapefile
 - Chloropleths
     * Census block groups
 - Joins
-    * Census blocks
+    * Census population change
 - Making addresses geography
     * Sex offenders
     * Political donors
@@ -23,6 +25,11 @@ Outline
 Geographic information systems allow us to do spatial analyses. GIS lets us <a href="http://www.nytimes.com/2013/01/03/us/a-soaring-homicide-rate-a-divide-in-chicago.html?_r=1&">quantify disparities between neighborhoods</a>, 
 
 Maybe the thing that makes it most different, though, is GIS' ability to let us switch together disparate data sources to find correlations. The Seattle Times' <a href="http://seattletimes.com/flatpages/specialreports/methadone/methadonestollhigherinpoorerareas.html">found a connection between poverty and methadone<a>, for example.
+
+Most governments have GIS departments, and oftentimes GIS data is explicitly controlled by a records retention schedule. Another major source is the Census Bureau, which 
+
+<h3>DIGGING INTO QGIS</h3>
+Franklin County roads using the Census Bureau's FTP site. Franklin County is FIPS Code 39049.
 
 <h3>CHLOROPLETHS</h3>
 
